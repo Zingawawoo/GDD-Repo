@@ -1,0 +1,16 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*~
+
+# Python / MkDocs
+site/
+.venv/
+__pycache__/
+
+# Godot
+.export/
+.import/
+*.import/*
+*.godot
