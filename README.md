@@ -1,12 +1,12 @@
 # 🎮 University of Bristol Game Development & Design Society
 
-![Banner](docs/_assets/banner.svg)
+![Banner](docs/_assets/banner.png)
 
 <p align="center">
   <a href="https://github.com/Zingawawoo/GDD-Repo/actions/workflows/deploy-docs.yml"><img src="https://img.shields.io/github/actions/workflow/status/Zingawawoo/GDD-Repo/deploy-docs.yml?label=Docs%20Build&logo=github" /></a>
   <a href="https://github.com/Zingawawoo/GDD-Repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
-  <a href="https://www.instagram.com/uobgds/"><img src="https://img.shields.io/badge/Instagram-@uobgds-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://chat.whatsapp.com/YOUR_WHATSAPP_INVITE_LINK"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/gddbristol?igsh=NTI0c280bW1xeDFm"><img src="https://img.shields.io/badge/Instagram-@uobgds-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://chat.whatsapp.com/Gexv7SPRjp82JHYYJUf6SS"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
@@ -55,8 +55,8 @@ Want to help run workshops, design slides, or contribute to projects?
 Start a **Discussion**, or message a committee member on **WhatsApp** or **Instagram**!
 
 - 💬 [Start a Discussion →](https://github.com/Zingawawoo/GDD-Repo/discussions)
-- 📸 [Follow us on Instagram](https://www.instagram.com/uobgds/)
-- 💬 [Join our WhatsApp Group](https://chat.whatsapp.com/YOUR_WHATSAPP_INVITE_LINK)
+- 📸 [Follow us on Instagram](https://www.instagram.com/gddbristol?igsh=NTI0c280bW1xeDFm)
+- 💬 [Join our WhatsApp Group](https://chat.whatsapp.com/Gexv7SPRjp82JHYYJUf6SS)
 
 ---
 
@@ -64,8 +64,8 @@ Start a **Discussion**, or message a committee member on **WhatsApp** or **Insta
 
 <p align="center">
   <a href="https://www.instagram.com/uobgds/"><img height="32" src="https://img.shields.io/badge/Instagram-@uobgds-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://chat.whatsapp.com/YOUR_WHATSAPP_INVITE_LINK"><img height="32" src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linktr.ee/uobgds"><img height="32" src="https://img.shields.io/badge/Linktree-uobgds-43E55E?logo=linktree&logoColor=white" /></a>
+  <a href="https://chat.whatsapp.com/Gexv7SPRjp82JHYYJUf6SS"><img height="32" src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linktr.ee/gddbris"><img height="32" src="https://img.shields.io/badge/Linktree-uobgds-43E55E?logo=linktree&logoColor=white" /></a>
 </p>
 
 ---
