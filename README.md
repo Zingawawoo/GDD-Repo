@@ -1,6 +1,6 @@
 # UoB Game Development & Design Society — Workshops
 
-![Banner](docs/_assets/banner.svg)
+![Banner](docs/_assets/banner.png)
 
 [![Pages](https://img.shields.io/badge/Docs-Live-4c1)](https://example.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
