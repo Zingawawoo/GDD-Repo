@@ -1,6 +1,9 @@
 site_name: UoB GDS Workshops
 site_description: Workshops and resources for the University of Bristol Game Development & Design Society
+site_url: https://zingawawoo.github.io/GDD-Repo/
 repo_url: https://github.com/Zingawawoo/GDD-Repo
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   features:
@@ -8,29 +11,44 @@ theme:
     - navigation.tracking
     - content.code.copy
     - toc.integrate
+    - search.suggest
+    - search.highlight
   palette:
     - scheme: default
       primary: indigo
       accent: deep purple
+
 markdown_extensions:
   - toc:
       permalink: true
   - admonition
-  - codehilite
-  - footnotes
   - def_list
   - attr_list
+  - footnotes
+  # Better code highlighting than codehilite:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences
+
+plugins:
+  - search
+
 nav:
   - Home: index.md
   - Workshops:
-        - Unreal Engine: workshops/unreal.md
-        - Unity: workshops/unity.md
-        - Godot: workshops/godot.md
-        - Blender: workshops/blender.md
+      - Unreal Engine: workshops/unreal.md
+      - Unity: workshops/unity.md
+      - Godot: workshops/godot.md
+      - Blender: workshops/blender.md
   - Events: events.md
+
 extra:
   social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/placeholder
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/gddbristol?igsh=NTI0c280bW1xeDFm
+    - icon: fontawesome/brands/whatsapp
+      link: https://chat.whatsapp.com/Gexv7SPRjp82JHYYJUf6SS
     - icon: fontawesome/brands/github
-      link: https://github.com/Zingawawoo
+      link: https://github.com/Zingawawoo/GDD-Repo
