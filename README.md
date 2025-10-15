@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/Zingawawoo/GDD-Repo/actions/workflows/deploy-docs.yml"><img src="https://img.shields.io/github/actions/workflow/status/Zingawawoo/GDD-Repo/deploy-docs.yml?label=Docs%20Build&logo=github" /></a>
   <a href="https://github.com/Zingawawoo/GDD-Repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
-  <a href="https://www.instagram.com/gddbristol?igsh=NTI0c280bW1xeDFm"><img src="https://img.shields.io/badge/Instagram-@uobgds-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/gddbristol?igsh=NTI0c280bW1xeDFm"><img src="https://img.shields.io/badge/Instagram-@gddbristol-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="https://chat.whatsapp.com/Gexv7SPRjp82JHYYJUf6SS"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?logo=whatsapp&logoColor=white" /></a>
 </p>
 
