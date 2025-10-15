@@ -23,8 +23,11 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Workshops:
-      - Intro to Godot (Jan 2025): workshops/2025-01-intro-to-godot.md
-      - Pixel Art Basics (Feb 2025): workshops/2025-02-pixel-art-basics.md
+        - Unreal Engine: workshops/unreal.md
+        - Unity: workshops/unity.md
+        - Godot: workshops/2025-01-intro-to-godot.md   # keep or replace with a category page
+        - Blender: workshops/blender.md
+  - Events: events.md
 extra:
   social:
     - icon: fontawesome/brands/discord
