@@ -1,6 +1,6 @@
 site_name: UoB GDS Workshops
 site_description: Workshops and resources for the University of Bristol Game Development & Design Society
-repo_url: https://github.com/your-org/your-repo
+repo_url: https://github.com/Zingawawoo/GDD-Repo
 theme:
   name: material
   features:
