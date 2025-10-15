@@ -1,45 +1,75 @@
-# UoB Game Development & Design Society — Workshops
+# 🎮 University of Bristol Game Development & Design Society
 
-![Banner](docs/_assets/banner.png)
+![Banner](docs/_assets/banner.svg)
 
-[![Pages](https://img.shields.io/badge/Docs-Live-4c1)](https://example.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478cbf.svg)](https://godotengine.org/)
-
-A central hub for **workshop materials** (slides, starter projects, finished code, and extra reading) for the **University of Bristol Game Development & Design Society**.
-
-> 🔒 **Read-only for members:** Everyone can view & download. Only committee/maintainers can push. To suggest changes, open a Discussion or Issue.
+<p align="center">
+  <a href="https://github.com/Zingawawoo/GDD-Repo/actions/workflows/deploy-docs.yml"><img src="https://img.shields.io/github/actions/workflow/status/Zingawawoo/GDD-Repo/deploy-docs.yml?label=Docs%20Build&logo=github" /></a>
+  <a href="https://github.com/Zingawawoo/GDD-Repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
+  <a href="https://www.instagram.com/uobgds/"><img src="https://img.shields.io/badge/Instagram-@uobgds-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://chat.whatsapp.com/YOUR_WHATSAPP_INVITE_LINK"><img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-## Quick links
-- **Live Docs:** (enable GitHub Pages after first push)  
-- **Workshop Downloads:** see the **Releases** tab for zipped packs
-- **Discussions:** Q&A, suggestions, and ideas
+## ⚡ Quick Access
 
-## Structure
-```
-workshops/
-  2025-01-intro-to-godot/
-    slides/
-    starter/
-    solutions/
-  2025-02-pixel-art-basics/
-docs/                # MkDocs site (auto-published to Pages)
-.github/workflows/   # CI for docs
-```
-Each workshop folder contains a README with instructions, plus **starter** and **solutions** projects. Keep large assets in Git LFS.
+| 📚 | **Resources** | 📥 | **Downloads** |
+|----|----------------|----|----------------|
+| 🌐 [**View Online Docs**](https://zingawawoo.github.io/GDD-Repo/) | Browse slides, starter packs, and notes. | 🧩 [**Releases Page**](https://github.com/Zingawawoo/GDD-Repo/releases) | Download complete workshop ZIPs. |
+| 💬 [**Discussions**](https://github.com/Zingawawoo/GDD-Repo/discussions) | Q&A, feedback, ideas, and collaboration. | 📅 [**Events Page**](https://linktr.ee/uobgds) | Find upcoming sessions. |
 
-## Contributing
-This repository is managed by the society committee. If you’d like to propose a fix or add-on:
-1. Open a **Discussion** first.
-2. If approved, submit a PR.
+---
 
-## Local docs preview
-```bash
-pip install mkdocs mkdocs-material
-mkdocs serve  # then open http://127.0.0.1:8000
-```
+## 🏗️ About
 
-## License
-MIT © 2025 UoB Game Dev & Design Society
+The **UoB Game Development & Design Society** is a community of students and creatives at the **University of Bristol** who love designing, programming, and sharing games together.
+
+We run hands-on workshops covering:
+- 🕹 **Game Engines** – Godot, Unreal, Unity  
+- 🎨 **Art & Animation** – Pixel art, sprite creation, visual design  
+- 🎵 **Audio & Sound Design**  
+- 💾 **Programming & AI for Games**  
+- 🧠 **Narrative & Game Design Principles**
+
+Everyone is welcome — from total beginners to experienced devs!
+
+---
+
+## 📂 Workshop Directory
+
+Each folder contains slides, starter projects, and solutions.
+
+| 🗓️ Date | 🧠 Workshop | 📁 Folder |
+|----------|--------------|-----------|
+| Jan 2025 | [Intro to Game Engines](workshops/2025-01-intro-to-godot) | [`/workshops/2025-01-intro-to-godot`](workshops/2025-01-intro-to-godot) |
+| Feb 2025 | [Pixel Art Basics](workshops/2025-02-pixel-art-basics) | [`/workshops/2025-02-pixel-art-basics`](workshops/2025-02-pixel-art-basics) |
+| Mar 2025 | (Coming Soon!) |  |
+
+> 🧩 Tip: You can **download individual folders** via the green “Code → Download ZIP” button or from the **Releases** tab.
+
+---
+
+## 🧑‍💻 Get Involved
+
+Want to help run workshops, design slides, or contribute to projects?  
+Start a **Discussion**, or message a committee member on **WhatsApp** or **Instagram**!
+
+- 💬 [Start a Discussion →](https://github.com/Zingawawoo/GDD-Repo/discussions)
+- 📸 [Follow us on Instagram](https://www.instagram.com/uobgds/)
+- 💬 [Join our WhatsApp Group](https://chat.whatsapp.com/YOUR_WHATSAPP_INVITE_LINK)
+
+---
+
+## 🌍 Connect With Us
+
+<p align="center">
+  <a href="https://www.instagram.com/uobgds/"><img height="32" src="https://img.shields.io/badge/Instagram-@uobgds-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://chat.whatsapp.com/YOUR_WHATSAPP_INVITE_LINK"><img height="32" src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linktr.ee/uobgds"><img height="32" src="https://img.shields.io/badge/Linktree-uobgds-43E55E?logo=linktree&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚖️ License
+MIT © University of Bristol Game Development & Design Society  
+See [LICENSE](LICENSE) for details.
