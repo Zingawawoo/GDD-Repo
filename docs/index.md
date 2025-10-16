@@ -1,4 +1,4 @@
-# UoB GDS — Workshops
+# GDD — Workshops
 
 Welcome! This site hosts slides, starter projects, and solutions for our workshops.
 
