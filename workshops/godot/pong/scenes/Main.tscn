@@ -27,7 +27,7 @@ position = Vector2(40, 350)
 
 [node name="PaddleRight" parent="." instance=ExtResource("1_elqb8")]
 position = Vector2(1110, 350)
-is_ai = true
+player_type = 1
 
 [node name="Ball" parent="." instance=ExtResource("2_rvslj")]
 position = Vector2(575, 350)
