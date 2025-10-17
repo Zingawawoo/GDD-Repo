@@ -15,7 +15,7 @@ jobs:
         with:
           args: >
             --verbose --no-progress
-            --exclude-domain instagram.com
+            --exclude instagram.com
             --accept 429
             --max-retries 5
             --retry-wait-time 5
