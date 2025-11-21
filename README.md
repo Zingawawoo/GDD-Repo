@@ -68,6 +68,27 @@ Start a **Discussion**, or message a committee member on **WhatsApp** or **Insta
 - 📸 [Follow us on Instagram](https://www.instagram.com/gddbristol?igsh=NTI0c280bW1xeDFm)
 - 💬 [Join our WhatsApp Group](https://chat.whatsapp.com/Gexv7SPRjp82JHYYJUf6SS)
 
+
+---
+
+## 🎮 Featured Projects
+
+The GDD Society maintains several student-led game projects.  
+Here is our current flagship game:
+
+### **🔥 Divine Departure**
+A fast-paced 2D isometric sword-fighting RPG built in **Godot 4** by members of the society.
+
+- ⚔️ Precision combat, dodging, parries  
+- 🧠 Enemy AI and action-RPG systems  
+- 🎨 Hand-drawn visuals and stylish effects  
+- 🤝 Open for contributors
+
+👉 **GitHub Repo:** https://github.com/Zingawawoo/DivineDeparture  
+👉 **How to Contribute:** See the project’s `CONTRIBUTING.md`
+
+If you want your project showcased here, open a Discussion or contact a committee member!
+
 ---
 
 ## 🌍 Connect With Us
